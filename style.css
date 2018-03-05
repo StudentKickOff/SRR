@@ -338,9 +338,9 @@ ol ol {
       left: 0; }
 
 .page-segment.-red {
-  background-color: #e94b43;
+  background-color: #98180E;
   color: white;
-  fill: #fab73e; }
+  fill: #98180E; }
   .page-segment.-red h1,
   .page-segment.-red h2,
   .page-segment.-red h3,
@@ -348,13 +348,13 @@ ol ol {
   .page-segment.-red a {
     color: #fab73e; }
   .page-segment.-red > .topbar > svg {
-    fill: #e94b43; }
+    fill: #98180E; }
   .page-segment.-red .sneaky {
-    color: #e94b43;
+    color: #98180E;
     text-shadow: none; }
 
 .page-segment.-yellow {
-  background-color: #fab73e;
+  background-color: #292929;
   color: #484848;
   fill: #e94b43; }
   .page-segment.-yellow h1,
@@ -364,9 +364,9 @@ ol ol {
   .page-segment.-yellow a {
     color: #e94b43; }
   .page-segment.-yellow > .topbar > svg {
-    fill: #fab73e; }
+    fill: #292929; }
   .page-segment.-yellow .sneaky {
-    color: #fab73e;
+    color: #292929;
     text-shadow: none; }
 
 .page-segment.-blue {
